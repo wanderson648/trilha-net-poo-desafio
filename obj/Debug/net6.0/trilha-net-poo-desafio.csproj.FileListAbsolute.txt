@@ -1,0 +1,14 @@
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\bin\Debug\net6.0\trilha-net-poo-desafio.exe
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\bin\Debug\net6.0\trilha-net-poo-desafio.deps.json
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\bin\Debug\net6.0\trilha-net-poo-desafio.runtimeconfig.json
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\bin\Debug\net6.0\trilha-net-poo-desafio.dll
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\bin\Debug\net6.0\trilha-net-poo-desafio.pdb
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\obj\Debug\net6.0\trilha-net-poo-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\obj\Debug\net6.0\trilha-net-poo-desafio.AssemblyInfoInputs.cache
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\obj\Debug\net6.0\trilha-net-poo-desafio.AssemblyInfo.cs
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\obj\Debug\net6.0\trilha-net-poo-desafio.csproj.CoreCompileInputs.cache
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\obj\Debug\net6.0\trilha-net-poo-desafio.dll
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\obj\Debug\net6.0\refint\trilha-net-poo-desafio.dll
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\obj\Debug\net6.0\trilha-net-poo-desafio.pdb
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\obj\Debug\net6.0\trilha-net-poo-desafio.genruntimeconfig.cache
+C:\Users\Wanderson\Desktop\api-demo\trilha-net-poo-desafio\trilha-net-poo-desafio\obj\Debug\net6.0\ref\trilha-net-poo-desafio.dll
